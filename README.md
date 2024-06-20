@@ -147,7 +147,7 @@ Estou extremamente grato pela oportunidade de participar deste bootcamp e pela r
 
 - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
-[![Certificado](docs/src/img/01_certificado.png)](https://www.dio.me/certificate/TQ0JX1MW)
+[![Certificado](docs/src/img/01_certificado.png)](https://www.dio.me/certificate/EGJHHSPS)
 
 
 ## Licença
