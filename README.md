@@ -4,7 +4,7 @@
 |:--:|
 | Trilha de Back-end Java do Santander Bootcamp 2024! Durante este desafio de projeto, desmistifiquei a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares do JAVA são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Neste desafio, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções. |
 | <a href="https://www.youtube.com/watch?v=wtiaPK_200U" target="_blank"><img style="margin: 10px" height="200" width="200" src="https://github.com/ClaudioMendonca-Eng/dio-trilha-java-basico/blob/main/img/logoba.png" alt="Logo do BootCamp"/></a> |
-| <a href="https://www.dio.me/users/claudioeduardoo" target="_blank"><img style="margin: 10px" height="320" width="690" src="/docs/src/img/tela.png" alt="Tela do Projeto"/></a> |
+| <a href="https://www.dio.me/users/claudioeduardoo" target="_blank"><img style="margin: 10px" height="600" width="320" src="/docs/src/img/tela.png" alt="Tela do Projeto"/></a> |
 
 <a href="https://docs.oracle.com/en/java/javase/20/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 
@@ -133,6 +133,15 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 
 ### 🏁 Conclusão
 
+Ao concluir a Trilha Java Básico - Desafio Prática Programação Orientada a Objetos (POO) da DIO no Santander Bootcamp 2024, eu, como aluno, sinto uma grande satisfação e realização. Este desafio foi uma experiência enriquecedora que me permitiu não apenas aprender, mas também aplicar de forma prática os conceitos fundamentais da Programação Orientada a Objetos com Java.
+
+Ao longo do projeto, fui capaz de entender e implementar os pilares essenciais da POO: abstração, encapsulamento, herança e polimorfismo. Através da modelagem de um domínio Bootcamp, desenvolvi classes que representam cursos, mentorias e desenvolvedores, estabelecendo relações entre esses objetos. Essa prática consolidou meu conhecimento e me deu confiança para enfrentar desafios reais na programação.
+
+A prática da abstração me ajudou a focar nos aspectos essenciais do problema, enquanto o encapsulamento me ensinou a esconder a complexidade interna dos objetos, facilitando a manutenção e evolução do código. Com a herança, pude reutilizar e estender comportamentos, promovendo um código mais limpo e eficiente. E, finalmente, o polimorfismo mostrou-se uma ferramenta poderosa para tratar objetos de forma genérica e flexível.
+
+Além dos conhecimentos técnicos, este projeto me proporcionou uma visão mais clara sobre a importância do design de software e boas práticas de programação. Cada passo do desafio foi uma oportunidade de crescer como desenvolvedor, preparando-me para futuros desafios no mundo da tecnologia.
+
+Estou extremamente grato pela oportunidade de participar deste bootcamp e pela riqueza de conhecimento adquirida. Este desafio não apenas aprimorou minhas habilidades em Java, mas também me inspirou a continuar explorando e aprofundando-me no fascinante mundo da programação orientada a objetos. Saio deste curso com uma base sólida e pronto para aplicar esses conceitos em projetos futuros, buscando sempre a excelência e a inovação.
 
 ## Certificados
 
